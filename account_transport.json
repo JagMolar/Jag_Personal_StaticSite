@@ -2,9 +2,9 @@
     "service":"gmail",
     "auth":{
         "type": "OAuth2",
-        "user": "micvonline2020@gmail.com",
-        "clientId": "508688066289-h3suhs9hm3oomqiamohlisvrsvliqc8g.apps.googleusercontent.com",
-        "clientSecret": "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",
-        "refreshToken": "1//0465pz6f4wHLTCgYIARAAGAQSNwF-L9IrAob3jnGlqiF2ltrXwe9Zj2qApdcXQJdNRSup9IRwLO-cUlgRpSqXY0Ca8iGqU8L1xA0"
+        "user": "micorreo__@gmail.com",
+        "clientId": "mi_user_id",
+        "clientSecret": "mi_secret_client",
+        "refreshToken": ""
     }
 }
