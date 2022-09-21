@@ -1,3 +1,9 @@
+/*
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
 (function($) {
 
 	var	$window = $(window),
@@ -378,27 +384,6 @@
 					});
 
 			}
-
-		/*|--------------------------------------------------------------------------
-			Scrollup
-		|--------------------------------------------------------------------------
-		*/
-		var scrollup = $('.scrollup');
-		window.scroll(function () {
-			if ($(this).scrollTop() > 100) {
-				scrollup.fadeIn();
-			} else {
-				scrollup.fadeOut();
-			}
-		});
-		scrollup.on('click', '', function(event){
-			$("html,article").animate({
-				scrollTop: 0
-			}, 600);
-			return false;
-		});
-
-			
 
 		// Initialize.
 
